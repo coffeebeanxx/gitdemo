@@ -1,2 +1,2 @@
-version 1.0
+version 1.4
 creating a new branch is quick
